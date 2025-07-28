@@ -1,6 +1,6 @@
-# Language Translation Tool
+# Language Translation Tool🎯
 
-## Objective:
+## 📌Objective:
 The main objective of this project is to develop a **Language Translation Tool** that translates text between different languages and can also convert translated text to speech.
 
 ## Language:
@@ -46,4 +46,5 @@ Input: `Hello`
 Target Language: `Spanish`  
 Output: `Hola` (audio playback available).
 
-
+**Developed by:**
+**Aabhash Jaiswal**
