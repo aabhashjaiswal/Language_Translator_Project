@@ -5,7 +5,7 @@ The main objective of this project is to develop a **Language Translation Tool**
 
 ## 💻 Language:
 - **Python 3.x**  
-  -Libraries used: `googletrans`, `gTTS`, `playsound`, `tkinter`.
+  Libraries used: `googletrans`, `gTTS`, `playsound`, `tkinter`.
 
 ## 🔧 Features:
 - Translate text from one language to another using Google Translate API.
