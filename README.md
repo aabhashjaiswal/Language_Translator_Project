@@ -41,10 +41,10 @@ project_extracted/
   - A "Translate" button to get the translation.
   - A "Speak" button to listen to the translated text.
 
-**Example:**  
-Input: `Hello`  
-Target Language: `Spanish`  
-Output: `Hola` (audio playback available).
+ **Example:**  
+   Input: `Hello`  
+   Target Language: `Spanish`  
+   Output: `Hola` (audio playback available).
 
-## ✅ Developed by:**
+## ✅ Developed by:
    **Aabhash Jaiswal**
